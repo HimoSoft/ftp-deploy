@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Upload deploy
-      uses: HimoSoft/ftp-deploy@releases/v1
+      uses: HimoSoft/himosoft-ftp-deploy@releases/v1.1.0
       with:
         host: ${{ secrets.FTP_SERVER }}
         user: ${{ secrets.FTP_USERNAME }}
