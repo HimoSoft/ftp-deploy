@@ -28,4 +28,4 @@ runs:
   image: 'Dockerfile'
 branding:
   color: 'green'
-  icon: 'codepen'
+  icon: 'check-circle'
