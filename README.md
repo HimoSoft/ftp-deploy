@@ -1,4 +1,4 @@
-# ftp-action
+# ftp-deploy
 
 Automate copying your files via ftp using this GitHub action.
 
