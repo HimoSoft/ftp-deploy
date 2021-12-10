@@ -1,5 +1,5 @@
-name: 'ftp-deploy'
-author: 'HimoSoft<contact@himelrana.com>'
+name: 'himsoft-ftp-deploy'
+author: 'HimSoft<contact@himelrana.com>'
 description: 'Automate deploy your files via FTP using this GitHub action.'
 inputs:
   host:
